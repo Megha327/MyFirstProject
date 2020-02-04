@@ -1,4 +1,5 @@
 hello
 write from master
+write from master
 changes in first file
 One more line added
