@@ -1,3 +1,5 @@
 hello
 write from master
+write from master
 changes in first file
+Adding a new line
